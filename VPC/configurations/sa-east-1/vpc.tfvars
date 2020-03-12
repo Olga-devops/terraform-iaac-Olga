@@ -1,5 +1,5 @@
 #Provide a region for VPC
-environment                     =   "sao paolo"
+environment                     =   "sao paulo"
 region                          =   "sa-east-1"
 
 s3_bucket                       =	"terraform-olga"
