@@ -9,7 +9,7 @@ vm3_computername         = "vm3"
 address_space            = "10.0.0.0/16" 
 vnet_name                = "vnet1" 
 location                 = "eastus" 
-ssh_key                  = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCsKhzRuycOx2nVwC4xpDzUXn8hwwMlWR2APlTYh7QSHwWueXA+29xlzIoCh3HFqQhhLiDJcusNhvwUH25kKrZpeRRB9HSXZDsh86Vj9Ge7Fa7Wc6GjuxavOyyttvjZpp9l42we6vdvbQG5UDl2jdg1OaMkbYVit1dDJzX+9hOE/N9bMGlBawNZ/HrIeKBw5bHscF4jUMkbu3mgEHjI47jRRL/KOKT+irnppMRIMQRE5wDcQPyolokYswYnI1A/peD8Za9ttVeUtg+QP1KYSYaUlHcDuUl0Ke75YRWKcBchUUSyuq1yDpk+rAgT2hxG+xdg+bbTHJJITEppF36IMI3p centos@ip-172-31-20-251.eu-west-2.compute.internal" 
+ssh_key                  = "ssh-rsa AAA.eu-west-2.compute.internal" # example put your public keys here
 environment              = "dev" 
 storage_account          = "dev1olga"
 
